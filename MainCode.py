@@ -3,7 +3,7 @@ from flask import Flask, request, render_template
 import gpt, os
 
 # Set a title for the app
-Title = "ChaTiss"
+Title = "ChatTiss"
 
 # Initialize Flask app
 app = Flask(__name__)
