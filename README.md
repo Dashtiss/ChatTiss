@@ -21,7 +21,7 @@ Note: If you want to deploy Chattiss on a remote server, you will need to modify
 
 ## Credits
 
-Chattiss was developed by [Your Name Here]. The project uses ChatGPT, which was developed by OpenAI. The site was created as a demonstration of how ChatGPT can be used to generate responses to user input.
+Chattiss was developed by Dashtiss. The project uses ChatGPT, which was developed by OpenAI. The site was created as a demonstration of how ChatGPT can be used to generate responses to user input.
 
 ## License
 
